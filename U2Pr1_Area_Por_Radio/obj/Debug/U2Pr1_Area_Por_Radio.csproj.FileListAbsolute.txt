@@ -1,0 +1,6 @@
+E:\Estudios\2-DAM\Desarrollo-Interfaces\U2Pr1_Area_Por_Radio\U2Pr1_Area_Por_Radio\bin\Debug\U2Pr1_Area_Por_Radio.exe
+E:\Estudios\2-DAM\Desarrollo-Interfaces\U2Pr1_Area_Por_Radio\U2Pr1_Area_Por_Radio\bin\Debug\U2Pr1_Area_Por_Radio.pdb
+E:\Estudios\2-DAM\Desarrollo-Interfaces\U2Pr1_Area_Por_Radio\U2Pr1_Area_Por_Radio\obj\Debug\U2Pr1_Area_Por_Radio.csproj.AssemblyReference.cache
+E:\Estudios\2-DAM\Desarrollo-Interfaces\U2Pr1_Area_Por_Radio\U2Pr1_Area_Por_Radio\obj\Debug\U2Pr1_Area_Por_Radio.csproj.CoreCompileInputs.cache
+E:\Estudios\2-DAM\Desarrollo-Interfaces\U2Pr1_Area_Por_Radio\U2Pr1_Area_Por_Radio\obj\Debug\U2Pr1_Area_Por_Radio.exe
+E:\Estudios\2-DAM\Desarrollo-Interfaces\U2Pr1_Area_Por_Radio\U2Pr1_Area_Por_Radio\obj\Debug\U2Pr1_Area_Por_Radio.pdb
